@@ -1,2 +1,4 @@
 # Practice
-study advance deep learning
+study advance deep learning via colaboratory.
+
+
